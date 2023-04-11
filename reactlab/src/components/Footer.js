@@ -14,7 +14,7 @@ const Footer = () => {
           maxWidth="1024px"
           height={16}
         >
-          <p>Olorunjuwonlo • © 2022</p>
+          <p>Oloremma-dev • © 2022</p>
         </Flex>
       </footer>
     </Box>
